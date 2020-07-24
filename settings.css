@@ -1,0 +1,179 @@
+@charset "utf-8";
+/* CSS Document */
+
+.set_block_1
+{
+	border: 2px solid orange;
+	border-radius: 10px;
+	width: 700px;
+	height: 150px;
+	margin: 0 auto;	
+	margin-top: 20px;
+}
+
+.set_block_name
+{
+	border: 0px solid green;
+	text-align: center;
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.set_block_center
+{
+	border: 0px solid black;
+	width: 700px;
+	height: 50px;
+	float: left;
+}
+
+.set_block_left
+{
+	border: 0px solid blue;
+	width: 350px;
+	height: 50px;
+	float: left;
+}
+
+.set_block_right
+{
+	border: 0px solid red;
+	width: 346px;
+	height: 50px;
+	float: left;
+}
+
+.set_block_pass
+{
+	border: 2px solid orange;
+	border-radius: 10px;
+	width: 300px;
+	height: 30px;
+	margin-left: 18px;
+	margin-top: 10px;
+	font-size: 20px;
+	padding-left: 5px;
+	padding-right: 5px;
+	outline: none;
+}
+
+.set_block_bottom
+{
+	border: 0px solid green;
+	width: 700px;
+	height: 55px;
+	float: left;
+}
+
+.set_block_button
+{
+	border: 2px solid orange;
+	border-radius: 10px;
+	background: white;
+	width: 150px;
+	height: 40px;
+	font-size: 18px;
+	float: right;
+	margin-right: 18px;
+	margin-top: 10px;
+    outline: none;
+}
+
+.set_block_2
+{
+	border: 2px solid orange;
+	border-radius: 10px;
+	width: 700px;
+	height: 150px;
+	margin: 0 auto;	
+	margin-top: 20px;
+}
+
+.set_block_name_2
+{
+	border: 0px solid green;
+	text-align: center;
+	font-size: 22px;
+	margin-top: 10px;
+}
+
+.set_block_center_2
+{
+	border: 0px solid black;
+	width: 700px;
+	height: 50px;
+	float: left;
+}
+
+.set_block_warning
+{
+	border: 1px solid #FF8A8D;
+	background: #FF8A8D;
+	border-radius: 10px;
+	width: 650px;
+	height: 40px;
+	margin: 0 auto;
+	margin-top: 10px;
+}
+
+.set_block_warning_text
+{
+	font-size: 18px;
+	text-align: center;
+	margin-top: 10px;
+}
+
+.set_block_bottom_2
+{
+	border: 0px solid green;
+	width: 700px;
+	height: 55px;
+	float: left;
+}
+
+.set_block_bottom_2_left
+{
+	border: 0px solid blue;
+	width: 350px;
+	height: 55px;
+	float: left;
+}
+
+.set_block_bottom_2_right
+{
+	border: 0px solid red;
+	width: 346px;
+	height: 55px;
+	float: left;
+}
+
+.post_file_2
+{
+    border: 2px solid orange;
+    border-radius: 10px;
+    width: 220px;
+    height: 35px;
+	margin-top: 13px;
+	margin-left: 23px;
+}
+
+.post_file_2_text
+{
+    font-size: 18px;
+    text-align: center;
+    margin-top: 8px;
+}
+
+
+.set_block_button_2
+{
+    border: 2px solid orange;
+    border-radius: 10px;
+    width: 150px;
+    height: 40px;
+    font-size: 18px;
+    float: right;
+    margin-top: 13px;
+    margin-right: 20px;
+    outline: none;
+}
